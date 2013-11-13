@@ -1,0 +1,13 @@
+# Created by http://gitignore.io
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### Gradle ###
+# Exclude Folder List #
+.gradle/
+build/
+
